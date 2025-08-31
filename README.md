@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Juncode89
-- 👀 I’m interested in php, php poo and php framework
-- 🌱 I’m currently learning php
+- 👀 I’m a python developper
+  
+  
 
 
 <!---
